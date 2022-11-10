@@ -26,7 +26,7 @@ This repository is for self-study of Processing.
 - Create `tasks.json` ([sample 1](.vscode/tasks.json), [sample 2](./triangle_rotation/.vscode/tasks.json))
 
 ### Windows
-- Install VcXsrv(Xlaunch)
+- Install VcXsrv(Xlaunch)  
     https://sourceforge.net/projects/vcxsrv/
 
 ### Run code
