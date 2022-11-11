@@ -31,7 +31,7 @@ This repository is for self-study of Processing.
 
 ### Run code
 - Launch `Xlaunch` on Windows  
-    ##### In my environment, executing `xlaunch` without checking  `Disalbe access control` checkbox in the `Extra settings` dialog, an error will occur when running the pde code.
+    In my environment, executing `xlaunch` without checking  `Disalbe access control` checkbox in the `Extra settings` dialog, an error will occur when running the pde code.
 - Launch Vscode on WSL2
 - Select pde file on Vscode
 - Run code `Ctrl + Shift + b`
