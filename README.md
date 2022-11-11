@@ -30,7 +30,8 @@ This repository is for self-study of Processing.
     https://sourceforge.net/projects/vcxsrv/
 
 ### Run code
-- Launch `Xlaunch` on Windows
+- Launch `Xlaunch` on Windows  
+    ##### In my environment, executing `xlaunch` without checking  `Disalbe access control` checkbox in the `Extra settings` dialog, an error will occur when running the pde code.
 - Launch Vscode on WSL2
 - Select pde file on Vscode
-- Ctrl + Shift + b
+- Run code `Ctrl + Shift + b`
