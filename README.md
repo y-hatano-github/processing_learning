@@ -7,9 +7,9 @@ This repository is for self-study of Processing.
 - Install Processing
     ```
     cd /opt
-    sudo wget https://github.com/processing/processing4/releases/download/processing-1286-4.0.1/processing-4.0.1-linux-x64.tgz
-    tar xzvf processing-4.0.1-linux-x64.tgz
-    cd processing-4.0.1/
+    sudo wget https://github.com/processing/processing4/releases/download/processing-1289-4.1.1/processing-4.1.1-linux-x64.tgz
+    tar xzvf processing-4.1.1-linux-x64.tgz
+    cd processing-4.1.1/
     ./install.sh
     ```
 - Install `x11-apps`
@@ -22,8 +22,9 @@ This repository is for self-study of Processing.
     ```
 
 ### Vscode
-- Add addon `Processing Language` to vscode
 - Create `tasks.json` ([sample 1](.vscode/tasks.json), [sample 2](./triangle_rotation/.vscode/tasks.json))
+- Add vscode extension [`processing-language-server-vscode`](https://marketplace.visualstudio.com/items?itemName=kgtkr.processing-language-server-vscode)
+- Create `settings.json` ([sample 1](.vscode/settings.json), [sample 2](./triangle_rotation/.vscode/settings.json))
 
 ### Windows
 - Install VcXsrv(Xlaunch)  

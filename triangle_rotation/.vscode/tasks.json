@@ -3,7 +3,7 @@
     "tasks": [
       {
         "label": "Run",
-        "command": "/opt/processing-4.0.1/processing-java",
+        "command": "/opt/processing-4.1.1/processing-java",
         "type": "process",
         "args": [
           "--force",
